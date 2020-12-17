@@ -1,3 +1,6 @@
+This project has been deployed on firebase. The link of the firebase deployment is :  https://clone-fbdcf.web.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
